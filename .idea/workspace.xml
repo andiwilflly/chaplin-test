@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="36" selection-start="545" selection-end="545" vertical-scroll-proportion="0.33515882" vertical-offset="0" max-vertical-offset="913">
+            <state line="18" column="36" selection-start="545" selection-end="545" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="544">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.055798687" vertical-offset="0" max-vertical-offset="914">
               <folding />
             </state>
           </provider>
@@ -48,6 +57,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_build/package.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -241,7 +251,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="36" selection-start="545" selection-end="545" vertical-scroll-proportion="0.33515882" vertical-offset="0" max-vertical-offset="913">
+        <state line="18" column="36" selection-start="545" selection-end="545" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.055798687" vertical-offset="0" max-vertical-offset="914">
           <folding />
         </state>
       </provider>
