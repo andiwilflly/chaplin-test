@@ -1,4 +1,4 @@
 # Application routes.
 module.exports = (match) ->
-  match '', 'home#index'
-  match 'rly/omg', 'home#index'
+  match '',        'home#index'
+  match 'manager', 'manager#index'
